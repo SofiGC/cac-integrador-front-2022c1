@@ -21,3 +21,12 @@ code {
     color: white;
     padding: 5px;
 }
+
+.fondo-imagen{
+    background-image: url("../img/ba1.jpg");
+    position: relative;
+  height: auto;
+  width: 100%;
+    text-align: right;
+    text-align: below;
+}
